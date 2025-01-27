@@ -5,6 +5,7 @@ tmp
 .uv/
 **/*.egg-info
 **/output.mp3
+frontend/demo_outputs/*.mp3
 kompose
 get_helm.sh
 .env
